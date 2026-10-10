@@ -1,0 +1,11 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.env
+.env.*
+
+# arquivos .bubble e saídas geradas: contêm dados reais do seu app
+*.bubble
+slices/
+PRD-*.md

@@ -1,0 +1,14 @@
+node_modules/
+.next/
+*.tsbuildinfo
+
+# específico do seu app: nunca versionar (contém dados reais e token)
+nocode.config.json
+data/
+supabase/backfill.sql
+supabase/schema.sql
+src/engine/seed-data.json
+tools/.env
+tools/.env.*
+docs/PRD-*.md
+docs/tema-inventario.*
